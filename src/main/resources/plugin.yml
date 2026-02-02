@@ -1,0 +1,13 @@
+name: GodSpear
+version: 1.0
+main: me.shivam.godspear.GodSpear
+api-version: 1.21
+
+commands:
+  godspear:
+    description: Give the ONLY God Spear
+    permission: godspear.admin
+
+permissions:
+  godspear.admin:
+    default: op
